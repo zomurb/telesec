@@ -1,0 +1,17 @@
+{
+  "name": "telesec-business-bot",
+  "version": "2.0.0",
+  "description": "Official Telegram Business Bot Secretary (No session, No AI key required)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "grammy": "^1.35.0",
+    "dotenv": "^16.4.7"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
